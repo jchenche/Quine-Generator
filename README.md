@@ -1,6 +1,6 @@
 # Quine-Generator
 
-Run `quine_generator.py` and `quine_generator2.py` with python3.
+Run `quine_generator.py` and `quine_generator2.py` with Python3.
 
 Quines (self-replicating programs) have the source code encoded as part of the source code, so it doesn't need to read any file to get the source code. The latter is impossible if the quine is compiled and the source code file is deleted.
 
